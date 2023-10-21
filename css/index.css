@@ -1,0 +1,33 @@
+#conteiner{
+    align-items: center;
+    justify-content: center;
+    padding: 80px 80px 80px 15%;
+
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
+
+hr{
+    border: 1px solid black;
+    width: 100%;
+}
+
+.espaco{
+    width: 10%;
+}
+
+table{
+    text-align: center;
+    border: 2px solid black;
+    width: 80%;
+}
+
+.hidden{
+    display: none;
+}
+
+
+

@@ -1,0 +1,25 @@
+.conteiner{
+    align-items: center;
+    justify-content: center;
+    padding: 80px 80px 80px 30%;
+}
+
+form{
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    width: 50%;
+    position: relative;
+}
+
+input{
+    width: 50%;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 10px 10px 10px 10px;
+}
